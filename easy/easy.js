@@ -9,4 +9,8 @@ import { longestWord } from "./longest-word.js";
 
 import { firstFactorial } from "./first-factorial.js";
 
-console.log(firstFactorial(8))
+// console.log(firstFactorial(8))
+
+import { firstReverse } from "./first-reverse.js";
+
+console.log(firstReverse("merhaba"))
