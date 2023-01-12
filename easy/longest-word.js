@@ -6,7 +6,7 @@ export const longestWord = (sen) => {
 
 /*
 RULES 
--- Using the javascript language, have the functipn LongestWord(sen) take the sen parameter beign passed and return the largest word in the string.
+-- Using the javascript language, have the function LongestWord(sen) take the sen parameter beign passed and return the largest word in the string.
 -- If there are two or more words that are the same length, retırn the first word from the string wtih that length.
 -- Ignore punctuation and assume sen will not be empty.
 */
