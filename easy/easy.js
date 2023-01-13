@@ -13,4 +13,7 @@ import { firstFactorial } from "./first-factorial.js";
 
 import { firstReverse } from "./first-reverse.js";
 
-console.log(firstReverse("merhaba"))
+// console.log(firstReverse("merhaba"))
+
+import { findIntersection } from "./find-intersection.js";
+console.log(findIntersection(["1, 3, 4, 7, 13","1, 2, 4, 13, 15"]))
