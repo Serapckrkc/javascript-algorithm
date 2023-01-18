@@ -21,4 +21,8 @@ import { findIntersection } from "./find-intersection.js";
 
 import { questionMarks} from "./question-mark.js";
 
-console.log(questionMarks("acc?7??sss?3rr1??????5"))
+// console.log(questionMarks("acc?7??sss?3rr1??????5"))
+
+import { letterChange} from "./letter-change.js";
+
+console.log(letterChange("selam"));
